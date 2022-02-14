@@ -4,7 +4,7 @@
 #### Allow discord.js to login as User
 
 ### Install
-`npm i discord.js.userbot`
+`npm i discord.js.userbot-fix`
 
 ### allowUserBotting(client, [node_modules_path])
 
@@ -16,7 +16,7 @@
 
 ```js
 const Discord = require('discord.js');
-const allowUserBotting = require('discord.js.userbot');
+const allowUserBotting = require('discord.js.userbot-fix');
 const client = new Discord.Client();
 // Remember to set correct node_modules_path if it's not working.
 allowUserBotting(client);
