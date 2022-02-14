@@ -1,5 +1,5 @@
 
-## discord.js.userbot
+## Discord.js Userbot
 
 #### Allow discord.js to login as User
 
